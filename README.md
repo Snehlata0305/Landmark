@@ -66,14 +66,14 @@ Data Preparation
             │
             ▼
        Model Forward Pass
-   (U-Net with ResNet50 encoder + skip connections)
+   (U-Net with ResNet50 encoder)
             │
             ▼
      Predicted Segmentation Mask
             │
             ▼
        Loss Computation
-   (e.g., Dice + CrossEntropy/ComboLoss)
+   (Dice + CrossEntropy/ComboLoss)
             │
             ▼
       Backpropagation
