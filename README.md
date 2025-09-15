@@ -2,6 +2,9 @@
 
 All the relevant implementation details, explanations, and code snippets for this work are consolidated in landmark.ipynb, which serves as the primary reference notebook for this project.
 
+[If landmark.ipynb is showing as invalid document, please access from here](https://drive.google.com/file/d/1qz0ZyvJ5torsEAHpyM1jjsf9l_yCmiZQ/view?usp=sharing)
+
+
 * [Problem statement](https://docs.google.com/document/d/1DSXm99Fxw7gGm5Tj1VU8NmN31B8XzXf-iHG_tTyiInA/edit?usp=sharing)  
 * [Weights pth on drive](https://drive.google.com/file/d/1OlFkfwbNuAGYtx9CdVH1z2k9_YktBbls/view?usp=sharing)
 * Samples displayed in notebook [Group](https://drive.google.com/file/d/12VFgZjQI8AhVCKwimzhRgnSsIXTSPlvi/view?usp=sharing) | [Single person](https://drive.google.com/file/d/1TCBsgSvARcn-AwdTjwipW6uHrOPgCOYa/view?usp=sharing)
